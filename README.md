@@ -1,5 +1,5 @@
 - 👋 I'm a Software Automation Developer and Front End Developer
-- 👀 I’m interested in testing and automating web/mobile apps using Selenium with Java
+- 👀 I’m interested in testing and automating web/mobile/API using Selenium with Java and Python
 - 💞️ I’m looking to collaborate with people who can write awesome clean test code
 
 
