@@ -32,8 +32,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **chpraveen2905@gmail.com**
 
 💻 Things I use to code...
-C C++ CSS3 Java HTML5 Spring Spring Boot Hibernate Spring Security NodeJS Angular React Junit MySQL Swagger Postman MDN Docs Eclipse IntelliJ Idea Notion VSCode
-- 
+
+```
+Java HTML5 Spring Spring Boot Hibernate Spring Security NodeJS Angular React Junit MySQL Swagger Postman MDN Docs Eclipse IntelliJ Idea Notion VSCode
+```
+
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
