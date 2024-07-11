@@ -24,12 +24,12 @@ React
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Spring Boot and Microservices projects
-- 🌱 I’m currently learning Kubernetes
+- 🔭 I’m currently working on **Spring Boot and Microservices projects**
+- 🌱 I’m currently learning **Kubernetes**
 - 👯 I’m looking to collaborate on any projects
-- 🤔 I’m looking for help with Apache kafka and Microservices
-- 💬 Ask me about Java, Spring boot, Node.js, React and Angular
-- 📫 How to reach me: chpraveen2905@gmail.com
+- 🤔 I’m looking for help with **Apache kafka and Microservices**
+- 💬 Ask me about **Java, Spring boot, Node.js, React and Angular**
+- 📫 How to reach me: **chpraveen2905@gmail.com**
 
 💻 Things I use to code...
 C C++ CSS3 Java HTML5 Spring Spring Boot Hibernate Spring Security NodeJS Angular React Junit MySQL Swagger Postman MDN Docs Eclipse IntelliJ Idea Notion VSCode
