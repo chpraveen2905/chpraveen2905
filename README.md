@@ -6,9 +6,6 @@
 
 📧 Connect with me at my LinkedIn profile at LinkedIn. Let's build something extraordinary! ✨🌍
 
-<!--
-**chpraveen2905/chpraveen2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Tech Stacks I'm currently working on 🔭
 Microservices 🌐    
 Web API 🕸️
@@ -34,4 +31,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Spring boot, Node.js, React and Angular
 - 📫 How to reach me: chpraveen2905@gmail.com
 
--->
+
