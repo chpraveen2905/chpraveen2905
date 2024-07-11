@@ -35,4 +35,8 @@ Here are some ideas to get you started:
 C C++ CSS3 Java HTML5 Spring Spring Boot Hibernate Spring Security NodeJS Angular React Junit MySQL Swagger Postman MDN Docs Eclipse IntelliJ Idea Notion VSCode
 - 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+
+![counter](https://[YourEndpoint].m.pipedream.net)
+
 
