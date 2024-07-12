@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ```
 Java HTML5 Spring Spring Boot Hibernate Spring Security NodeJS Angular React Junit MySQL Swagger Postman MDN Docs Eclipse IntelliJ Idea Notion VSCode
 ```
-<img src="https://camo.githubusercontent.com/c2a58428fe9b38967494da3b0a098f1d28f9cc395e3bbf123cbc14fb36bc1b07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" width="385px" align="center">
+<img src="https://camo.githubusercontent.com/c2a58428fe9b38967494da3b0a098f1d28f9cc395e3bbf123cbc14fb36bc1b07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" width="35px" align="center">
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
